@@ -1,4 +1,4 @@
-# Linggar
+
 <h1 align="center">Hi 👋, I'm Muhamad Linggar Hadistiawandi</h1>
 <h3 align="center">A Beginner Game Dev using Unreal Engine 4 and A Digital Artist</h3>
 
